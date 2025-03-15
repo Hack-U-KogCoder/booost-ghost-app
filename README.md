@@ -1,19 +1,51 @@
-# README
+# 👻 Booost
 
-## About
+[![HackID: 16コグコダ](https://img.shields.io/badge/HackID-16%E3%82%B3%E3%82%B0%E3%82%B3%E3%83%80-brightgreen)](https://github.com/yourusername/boost)
 
-This is the official Wails React-TS template.
+> 簡単便利で圧倒的かわいい?ユーティリティソフト！
 
-You can configure the project by editing `wails.json`. More information about the project settings can be found
-here: https://wails.io/docs/reference/project-config
+## 🌟 概要
 
-## Live Development
+Boostは、カスタマイズ可能な、かわいいユーティリティツールです。従来のユーティリティソフトウェアの問題を解決します：
+- 機能が多すぎて使いこなせない
+- 複雑なショートカットを覚えられない
+- インストールしたのに存在を忘れてしまう
 
-To run in live development mode, run `wails dev` in the project directory. This will run a Vite development
-server that will provide very fast hot reload of your frontend changes. If you want to develop in a browser
-and have access to your Go methods, there is also a dev server that runs on http://localhost:34115. Connect
-to this in your browser, and you can call your Go code from devtools.
+## 💡 特徴
 
-## Building
+### 🔹 ゴーストパワー
+Boostの特徴的なおばけキャラクターがカーソルについてくるので：
+- 常に視界に入り、忘れることがない
+- 他のアプリケーションを邪魔しない
+- シンプルなクリックで即座にアクセス可能
 
-To build a redistributable, production mode package, use `wails build`.
+### 🔹 カスタマイズ機能
+- 専門機能を持つ自分だけのゴーストツールを作成
+- さまざまな役割や外観でゴーストをパーソナライズ
+- ストアで機能拡張が可能
+
+### 🔹 簡単実行
+- よく使う機能にワンクリックでアクセス
+- ショートカットはAlt+1,2,3とShiftの2回押しだけ
+- 既存のユーティリティツールとの連携
+
+## 🔧 システム構成
+
+### 📱 本体
+- **Wails** - デスクトップアプリケーションフレームワーク
+- **Go** - パフォーマンスと安定性のためのバックエンド言語
+- **React + TypeScript** - レスポンシブUIのためのフロントエンド
+
+### 🛒 ストア
+- **Svelte + Svelte Kit** - プラグインストア用
+
+## 🚀 インストール方法
+
+省略します。
+
+## 🔮 今後の展望
+
+- Windows対応
+- 拡張ストアの充実
+- マウスジェスチャーへの対応
+- 最強かわいいUIの追求
